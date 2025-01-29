@@ -1,8 +1,5 @@
-<h2 align="left">Tech Enthusiast | Web Dev, Cybersecurity, AI & Automation</h2>
-
-# 🐱‍💻 Found-sec
 ![github-header-image](https://github.com/user-attachments/assets/668fb94a-e39e-4073-80ca-ace95a3d0848)
-
+# 🐱‍💻 Found-sec
 **`Full-Stack Developer | Ethical Hacker | ML Engineer`**
 
 I'm a full-stack developer passionate about building innovative and impactful solutions. I work on team projects and create standalone applications to bring unique ideas to life. With expertise in web development, cybersecurity, AI, and automation, I focus on scalable and efficient systems.
