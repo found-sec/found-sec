@@ -1,4 +1,3 @@
-![github-header-image](https://github.com/user-attachments/assets/668fb94a-e39e-4073-80ca-ace95a3d0848)
 # 🐱‍💻 Found-sec
 **`Full-Stack Developer | Ethical Hacker | ML Engineer`**
 
