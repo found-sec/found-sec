@@ -35,6 +35,7 @@ I'm a full-stack developer passionate about building innovative and impactful so
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="VSCode" />
   <img src="https://skillicons.dev/icons?i=codepen" height="40" alt="CodePen" />
   <img src="https://cdn.simpleicons.org/git/F05032" height="40" alt="Git" />
+      <img src="https://neon.tech/brand/neon-logo-dark-color.svg" height="40"  alt="NeonDB" />
 
 </div>
 
